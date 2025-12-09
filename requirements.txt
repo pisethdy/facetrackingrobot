@@ -1,0 +1,5 @@
+opencv-python-headless
+onnxruntime
+flask
+pyserial
+numpy
